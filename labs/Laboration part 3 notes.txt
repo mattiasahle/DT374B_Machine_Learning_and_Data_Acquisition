@@ -1,0 +1,30 @@
+Questions regarding lab3:
+
+Q: Different sampling frequency - should we average values like we did in earlier labs? Or can we alter recording frequency?
+A: Depends on result - motivate your choice (inspect, test, evaluate, explain choice)!
+
+Q: Is the recording containing all movements together considered testing data?  
+A: YES!! Final test on this
+
+Q: Will we make use of norm and angle now also? 
+A: If you need - try - evaluate - motivate
+
+Q: Rapport is for all labs together?
+A: YES
+
+
+Rapport should contain:
+Abstract
+Intro
+Method
+Result
+Discussion
+Conclusion
+References
+
+FOCUS ON RESULTS!!!
+
+
+ON EXAM!!
+Partial derivative
+Multivariabel analys
